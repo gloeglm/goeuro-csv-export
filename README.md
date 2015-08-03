@@ -4,7 +4,7 @@ Simple tool that queries the goeuro API for position suggestions based on name a
 ## Building it
 
 Required:
-* Java 1.7.
+* Java 7
 * Maven
 
 After checking out the project running mvn package will build the project. Fat jar will be created in the "target" subdirecotry
