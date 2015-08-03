@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>de.gloegl</groupId>
-	<artifactId>goeurotest</artifactId>
+	<artifactId>goeuro-csv-export</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>goeurotest</name>
+	<name>goeuro-csv-export</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
